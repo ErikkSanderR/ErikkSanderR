@@ -1,4 +1,36 @@
-### Hi there 👋
+### bem vindo a minha pagina sem maldade!!! 👋
+
+<h2> aluno Erik </h2>
+
+aula de github 12/06/2023
+
+<b> sesc londrina centro </b>
+
+<hr>
+<hr>
+
+aula de informatica = produçao do README
+
+turma do 2 ano sesc - informatica
+
+<br>
+**github**
+1. aula1
+2. aula2
+3. aula3
+
+_github_
+
+-[] opçao1
+-[] opçao2
+-[] opçao3
+
+#TITULO 1
+***
+[senac](https://www.senac.com.br](https://www.senac.br/)
+www.senac.com.br
+
+
 
 <!--
 **ErikkSanderR/ErikkSanderR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
